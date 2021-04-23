@@ -1,0 +1,73 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.refresh-page {
+  text-align: center;
+}
+
+.btn {
+  width: 99%;
+  background: #ff5200;
+  background-image: -webkit-linear-gradient(top, #ff5200, #ff9463);
+  background-image: -moz-linear-gradient(top, #ff5200, #ff9463);
+  background-image: -ms-linear-gradient(top, #ff5200, #ff9463);
+  background-image: -o-linear-gradient(top, #ff5200, #ff9463);
+  background-image: linear-gradient(to bottom, #ff5200, #ff9463);
+  border-width: 0;
+  border-radius: 7px;
+  color: #ffffff;
+  box-shadow: 6px 6px 5px 0px rgba(53, 53, 53, 0.6);
+  font-family: "Original Surfer", cursive;
+  text-shadow: 1px 1px 1px rgba(53, 53, 53, 0.6);
+  font-size: 20px;
+  padding: 10px 0 10px;
+  text-decoration: none;
+  margin: 50px 0;
+}
+
+.btn:hover {
+  background: #cf4200;
+  text-decoration: none;
+}
+
+body {
+  background-color: #fa9905;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Zen Dots", cursive;
+  text-shadow: 6px 6px 5px rgba(53, 53, 53, 0.6);
+  font-size: 3rem;
+  color: #72147e;
+}
+
+p {
+  font-size: 2rem;
+  text-shadow: 1px 1px 1px rgba(53, 53, 53, 0.6);
+  color: #f21170;
+  font-family: "Original Surfer", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+footer{
+  margin: 50px;
+}
